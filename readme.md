@@ -1,6 +1,6 @@
 # Tic-Tac-Toe CLI Game
 
-A command-line interface (CLI) hot-seat tic-tac-toe game built with Node.js. Features support for two-player hot-seat gameplay and includes a scaffold for future LLM (Language Learning Model) API integration.
+A command-line interface (CLI) hot-seat tic-tac-toe game built with Node.js. Features support for two-player hot-seat gameplay and includes a scaffold for future LLM (Large Language Model) API integration.
 
 ## Features
 
