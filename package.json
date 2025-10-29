@@ -1,0 +1,16 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "CLI hot-seat tic-tac-toe game with future LLM support",
+  "main": "src/index.js",
+  "bin": {
+    "tictactoe": "./bin/tictactoe.js"
+  },
+  "scripts": {
+    "start": "node bin/tictactoe.js",
+    "test": "node tests/game.test.js"
+  },
+  "keywords": ["tictactoe", "game", "cli", "hot-seat"],
+  "author": "",
+  "license": "ISC"
+}
